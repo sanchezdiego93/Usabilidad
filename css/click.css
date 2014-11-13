@@ -1,0 +1,8 @@
+#clic{
+	background-color: #ffffff;
+}
+
+#clic a:focus
+{
+	background-color: yellow;
+}
